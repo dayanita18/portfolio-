@@ -1,0 +1,27 @@
+h2{
+    background-color: rgba(242, 199, 247, 0);
+    color: #870396;
+    border-width: 10px;
+    
+
+}
+
+
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url('img/ffe18fc647e4ec3becfd50ca68167e03.jpg'); /* Ruta de la imagen */
+    background-size: cover; /* Hace que la imagen cubra todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.h2{
+    border-radius: 15px; /* Bordes redondeados */
+}
